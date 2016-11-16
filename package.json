@@ -1,5 +1,5 @@
 {
-  "name": "@ftbl/client",
+  "name": "@recipher/client",
   "version": "1.2.0",
   "description": "Client server",
   "main": "node index",
@@ -14,11 +14,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:projectftbl/client.git"
+    "url": "git@github.com:recipher/client.git"
   },
   "dependencies": {
-    "@ftbl/configuration": "^1.0.1",
-    "@ftbl/log": "^1.0.3",
+    "@recipher/configuration": "^1.0.1",
+    "@recipher/log": "^1.0.3",
     "authom": "^0.4.36",
     "compression": "^1.6.0",
     "connect-history-api-fallback": "^1.1.0",
@@ -27,8 +27,8 @@
     "request": "^2.64.0"
   },
   "devDependencies": {
+    "@recipher/gulp": "^1.0.0",
     "chai": "^3.2.0",
-    "@ftbl/gulp": "^1.0.0",
     "gulp": "^3.9.0",
     "mocha": "^2.2.5"
   }
