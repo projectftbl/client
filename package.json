@@ -23,7 +23,8 @@
     "express": "^4.13.3",
     "morgan": "^1.6.1",
     "nconf": "^0.7.1",
-    "request": "^2.64.0"
+    "request": "^2.64.0",
+    "winston": "^1.0.1"
   },
   "devDependencies": {
     "@recipher/gulp": "^1.0.0",
