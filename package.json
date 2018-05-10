@@ -17,13 +17,12 @@
     "url": "git@github.com:recipher/client.git"
   },
   "dependencies": {
-    "@recipher/configuration": "^1.0.1",
-    "@recipher/log": "^1.0.3",
     "authom": "^0.4.36",
     "compression": "^1.6.0",
     "connect-history-api-fallback": "^1.1.0",
     "express": "^4.13.3",
     "morgan": "^1.6.1",
+    "nconf": "^0.7.1",
     "request": "^2.64.0"
   },
   "devDependencies": {
